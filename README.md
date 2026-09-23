@@ -6,6 +6,13 @@ This project is completed as part of the B.Y.T.E by Arithmatrix AVIP 2026 Data S
 
 The objective is to analyze IPL cricket match and ball-by-ball data and build an interactive dashboard showing important team and player statistics.
 
+## Live Dashboard
+
+Deployed Dashboard:
+https://avip-ipl-dashboard-byte.onrender.com/ipl_dashboard.html
+
+The dashboard is deployed using Render and provides interactive Season and Team filters along with IPL cricket statistics visualizations.
+
 ## Key Dashboard Features
 
 The dashboard includes:
