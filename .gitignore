@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.ipynb_checkpoints/
+.DS_Store
+
+# Raw/large datasets
+data/*.csv
+data/*.zip
+
+# Generated outputs can be committed if required by the internship

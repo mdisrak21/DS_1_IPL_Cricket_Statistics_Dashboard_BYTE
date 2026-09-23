@@ -1,0 +1,29 @@
+
+AVIP 2026 - Task 1 IPL Dashboard
+
+Data Source:
+https://github.com/Valkyrie31/EDA-IPL-2008-2024
+
+Extraction Date:
+2026-09-23
+
+Dataset:
+1,095 matches
+260,920 deliveries
+
+Key Observations:
+
+1. The highest total runs in a match were
+   549 runs.
+
+2. The leading run scorer is
+   V Kohli with 8014 runs.
+
+3. The leading wicket taker is
+   YS Chahal with 205 credited wickets.
+
+4. The dashboard provides Season and Team filters
+   for interactive exploration of the IPL statistics.
+
+Win percentage is calculated as wins divided by
+matches played within the selected scope.
