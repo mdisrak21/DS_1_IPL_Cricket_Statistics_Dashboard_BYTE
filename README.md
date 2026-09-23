@@ -32,6 +32,7 @@ The dataset contains match-level information and ball-by-ball delivery informati
 
 ## Project Structure
 
+```text
 AVIP_DS_Task1_IPL_Dashboard/
 ├── README.md
 ├── requirements.txt
@@ -52,6 +53,8 @@ AVIP_DS_Task1_IPL_Dashboard/
     ├── top_10_run_scorers.png
     ├── top_10_wicket_takers.png
     └── team_win_percentage.png
+
+```
 
 ## Run Locally
 
